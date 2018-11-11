@@ -1,0 +1,11 @@
+E:\ASP.net\Git\WebApplication\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.deps.json
+E:\ASP.net\Git\WebApplication\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.runtimeconfig.json
+E:\ASP.net\Git\WebApplication\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.runtimeconfig.dev.json
+E:\ASP.net\Git\WebApplication\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.dll
+E:\ASP.net\Git\WebApplication\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.pdb
+E:\ASP.net\Git\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.csprojAssemblyReference.cache
+E:\ASP.net\Git\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.csproj.CoreCompileInputs.cache
+E:\ASP.net\Git\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.AssemblyInfoInputs.cache
+E:\ASP.net\Git\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.AssemblyInfo.cs
+E:\ASP.net\Git\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.dll
+E:\ASP.net\Git\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.pdb
